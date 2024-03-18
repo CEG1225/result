@@ -1,128 +1,82 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
-129.154.198.48,443,443,true,ICN,Asia Pacific,Seoul,47,25.56
-13.124.120.105,443,443,true,ICN,Asia Pacific,Seoul,51,14.33
-193.122.125.174,2053,443,true,HKG,Asia Pacific,Hong Kong,46,14.31
-58.141.125.141,30064,443,true,ICN,Asia Pacific,Seoul,50,9.83
-27.35.13.136,31703,443,true,ICN,Asia Pacific,Seoul,54,9.82
-27.35.13.136,12464,443,true,ICN,Asia Pacific,Seoul,56,9.53
-39.126.158.244,36212,443,true,ICN,Asia Pacific,Seoul,85,9.06
-39.126.158.244,18532,443,true,HKG,Asia Pacific,Hong Kong,123,8.92
-39.126.158.244,35034,443,true,ICN,Asia Pacific,Seoul,90,8.86
-58.141.92.80,23096,443,true,HKG,Asia Pacific,Hong Kong,95,8.59
-49.1.224.137,30055,443,true,ICN,Asia Pacific,Seoul,101,8.50
-58.76.168.123,24773,443,true,HKG,Asia Pacific,Hong Kong,101,8.48
-58.76.168.123,11859,443,true,ICN,Asia Pacific,Seoul,65,8.36
-39.126.160.150,32003,443,true,ICN,Asia Pacific,Seoul,61,8.11
-49.142.75.128,38740,443,true,ICN,Asia Pacific,Seoul,63,8.05
-111.118.49.163,19101,443,true,ICN,Asia Pacific,Seoul,88,8.05
-49.142.75.128,10212,443,true,ICN,Asia Pacific,Seoul,62,7.73
-49.142.75.128,25265,443,true,ICN,Asia Pacific,Seoul,87,7.72
-39.126.160.150,17030,443,true,ICN,Asia Pacific,Seoul,59,7.69
-58.76.170.119,30054,443,true,ICN,Asia Pacific,Seoul,78,7.60
-39.126.160.150,11786,443,true,ICN,Asia Pacific,Seoul,63,7.56
-101.235.209.154,21747,443,true,ICN,Asia Pacific,Seoul,73,7.49
-101.235.197.211,14951,443,true,ICN,Asia Pacific,Seoul,74,7.32
-58.141.91.212,30054,443,true,ICN,Asia Pacific,Seoul,72,7.31
-49.142.75.128,19468,443,true,ICN,Asia Pacific,Seoul,85,7.23
-58.140.88.28,30061,443,true,ICN,Asia Pacific,Seoul,71,7.06
-58.76.172.250,30059,443,true,ICN,Asia Pacific,Seoul,53,7.04
-49.1.224.137,15262,443,true,HKG,Asia Pacific,Hong Kong,167,7.01
-111.118.25.110,10130,443,true,ICN,Asia Pacific,Seoul,76,6.82
-101.235.209.154,38104,443,true,HKG,Asia Pacific,Hong Kong,115,6.80
-111.118.49.163,23750,443,true,HKG,Asia Pacific,Hong Kong,118,6.69
-39.126.160.150,22597,443,true,ICN,Asia Pacific,Seoul,61,6.53
-111.118.49.163,10927,443,true,ICN,Asia Pacific,Seoul,70,6.33
-58.76.168.123,28504,443,true,HKG,Asia Pacific,Hong Kong,113,6.29
-58.76.172.250,30055,443,true,ICN,Asia Pacific,Seoul,56,6.27
-58.76.168.123,20623,443,true,ICN,Asia Pacific,Seoul,67,6.11
-49.142.75.128,10468,443,true,ICN,Asia Pacific,Seoul,62,6.09
-101.235.197.211,28778,443,true,HKG,Asia Pacific,Hong Kong,110,6.02
-58.76.168.123,13012,443,true,HKG,Asia Pacific,Hong Kong,116,5.94
-49.142.75.128,12122,443,true,ICN,Asia Pacific,Seoul,55,5.88
-111.118.49.163,20998,443,true,ICN,Asia Pacific,Seoul,69,5.86
-58.76.168.123,23892,443,true,ICN,Asia Pacific,Seoul,67,5.51
-49.142.75.128,34884,443,true,ICN,Asia Pacific,Seoul,83,5.48
-58.76.168.123,13244,443,true,ICN,Asia Pacific,Seoul,71,5.34
-101.235.197.211,33272,443,true,HKG,Asia Pacific,Hong Kong,116,5.16
-58.76.168.123,10199,443,true,HKG,Asia Pacific,Hong Kong,101,5.15
-49.142.66.75,35573,443,true,ICN,Asia Pacific,Seoul,50,5.13
-39.126.160.150,27297,443,true,HKG,Asia Pacific,Hong Kong,96,4.97
-101.235.209.154,30060,443,true,ICN,Asia Pacific,Seoul,73,4.89
-111.118.49.163,31739,443,true,HKG,Asia Pacific,Hong Kong,663,4.88
-101.235.209.154,12065,443,true,ICN,Asia Pacific,Seoul,81,4.76
-101.235.197.211,15855,443,true,HKG,Asia Pacific,Hong Kong,120,4.65
-58.76.168.123,17112,443,true,ICN,Asia Pacific,Seoul,65,4.45
-58.76.168.123,19124,443,true,ICN,Asia Pacific,Seoul,72,4.44
-111.118.49.163,39966,443,true,HKG,Asia Pacific,Hong Kong,94,4.34
-49.142.75.128,30361,443,true,ICN,Asia Pacific,Seoul,81,4.31
-111.118.49.163,35943,443,true,ICN,Asia Pacific,Seoul,91,4.29
-58.76.168.123,24981,443,true,HKG,Asia Pacific,Hong Kong,102,4.27
-111.118.49.163,18382,443,true,ICN,Asia Pacific,Seoul,70,4.17
-45.93.30.117,39145,443,true,ICN,Asia Pacific,Seoul,56,4.05
-111.118.49.163,20818,443,true,ICN,Asia Pacific,Seoul,92,3.93
-58.76.168.123,16583,443,true,ICN,Asia Pacific,Seoul,66,3.88
-49.142.75.128,24818,443,true,ICN,Asia Pacific,Seoul,65,3.80
-101.235.197.211,35002,443,true,ICN,Asia Pacific,Seoul,75,3.79
-49.142.75.128,33593,443,true,ICN,Asia Pacific,Seoul,89,3.73
-58.76.168.123,33026,443,true,ICN,Asia Pacific,Seoul,68,3.73
-111.118.49.163,31368,443,true,ICN,Asia Pacific,Seoul,90,3.71
-111.118.49.163,23594,443,true,ICN,Asia Pacific,Seoul,87,3.68
-111.118.49.163,16704,443,true,ICN,Asia Pacific,Seoul,72,3.68
-111.118.49.163,10346,443,true,ICN,Asia Pacific,Seoul,68,3.61
-144.24.85.158,80,80,false,ICN,Asia Pacific,Seoul,410,3.57
-146.56.151.87,2087,2096,true,HKG,Asia Pacific,Hong Kong,93,3.47
-101.235.209.154,11475,443,true,HKG,Asia Pacific,Hong Kong,112,3.41
-58.76.168.123,18020,443,true,HKG,Asia Pacific,Hong Kong,94,3.37
-45.93.28.68,34237,2096,true,ICN,Asia Pacific,Seoul,59,3.22
-58.76.168.123,14473,443,true,ICN,Asia Pacific,Seoul,62,3.05
-111.118.49.163,26198,443,true,HKG,Asia Pacific,Hong Kong,102,3.00
-111.118.49.163,13055,443,true,HKG,Asia Pacific,Hong Kong,99,2.82
-49.142.75.128,19653,443,true,ICN,Asia Pacific,Seoul,88,2.78
-58.76.168.123,31541,443,true,ICN,Asia Pacific,Seoul,71,2.77
-39.126.160.150,14486,443,true,ICN,Asia Pacific,Seoul,62,2.75
-101.235.209.154,25096,443,true,ICN,Asia Pacific,Seoul,75,2.47
-111.118.49.163,35683,443,true,ICN,Asia Pacific,Seoul,93,2.26
-58.76.168.123,14045,443,true,ICN,Asia Pacific,Seoul,68,2.07
-111.118.49.163,37668,443,true,ICN,Asia Pacific,Seoul,90,2.00
-111.118.49.163,24778,443,true,ICN,Asia Pacific,Seoul,67,1.99
-111.118.49.163,11334,443,true,ICN,Asia Pacific,Seoul,70,1.94
-58.76.168.123,23677,8443,true,HKG,Asia Pacific,Hong Kong,105,1.74
-111.118.49.163,15192,443,true,HKG,Asia Pacific,Hong Kong,103,1.73
-45.154.15.101,443,443,true,ICN,Asia Pacific,Seoul,58,1.73
-111.118.49.163,20952,443,true,ICN,Asia Pacific,Seoul,71,1.60
-59.187.242.236,19948,443,true,ICN,Asia Pacific,Seoul,92,1.56
-111.118.49.163,27716,443,true,HKG,Asia Pacific,Hong Kong,108,1.55
-111.118.49.163,15538,443,true,ICN,Asia Pacific,Seoul,89,1.55
-49.142.66.75,10116,443,true,HKG,Asia Pacific,Hong Kong,112,1.51
-111.118.49.163,16906,443,true,ICN,Asia Pacific,Seoul,92,1.39
-59.187.242.236,14402,443,true,ICN,Asia Pacific,Seoul,96,1.20
-59.187.242.236,14661,443,true,ICN,Asia Pacific,Seoul,112,1.07
-103.86.44.125,65432,443,true,ICN,Asia Pacific,Seoul,54,1.06
-146.56.162.25,80,80,false,ICN,Asia Pacific,Seoul,91,0.70
-1.222.177.77,23770,443,true,ICN,Asia Pacific,Seoul,71,0.70
-1.222.177.77,11667,443,true,ICN,Asia Pacific,Seoul,67,0.60
-59.187.242.236,35087,443,true,ICN,Asia Pacific,Seoul,97,0.58
-101.235.209.154,25112,443,true,ICN,Asia Pacific,Seoul,71,0.45
-1.222.197.198,30063,443,true,ICN,Asia Pacific,Seoul,105,0.41
-39.126.17.228,30059,443,true,ICN,Asia Pacific,Seoul,104,0.40
-1.222.199.179,11265,443,true,ICN,Asia Pacific,Seoul,102,0.40
-39.126.105.86,30065,443,true,ICN,Asia Pacific,Seoul,116,0.40
-111.118.28.20,25649,443,true,HKG,Asia Pacific,Hong Kong,138,0.40
-39.126.100.148,13305,443,true,ICN,Asia Pacific,Seoul,100,0.40
-59.187.242.236,11215,443,true,ICN,Asia Pacific,Seoul,136,0.39
-59.187.242.236,27042,443,true,ICN,Asia Pacific,Seoul,116,0.31
-39.126.44.144,38912,443,true,ICN,Asia Pacific,Seoul,97,0.26
-39.126.44.144,21904,443,true,ICN,Asia Pacific,Seoul,96,0.25
-39.126.44.144,36403,443,true,ICN,Asia Pacific,Seoul,105,0.16
-39.126.44.144,24827,443,true,ICN,Asia Pacific,Seoul,113,0.12
-39.126.44.39,28916,80,false,HKG,Asia Pacific,Hong Kong,301,0.10
-39.126.44.39,21649,80,false,HKG,Asia Pacific,Hong Kong,241,0.06
-39.126.44.39,22204,80,false,ICN,Asia Pacific,Seoul,84,0.03
-101.235.209.154,31579,443,true,ICN,Asia Pacific,Seoul,76,0.00
-146.56.46.84,443,443,true,HKG,Asia Pacific,Hong Kong,610,0.00
-49.1.224.137,24726,443,true,ICN,Asia Pacific,Seoul,101,0.00
-49.1.224.137,18889,443,true,ICN,Asia Pacific,Seoul,103,0.00
-39.126.160.150,38099,443,true,HKG,Asia Pacific,Hong Kong,104,0.00
-58.76.168.123,19800,443,true,ICN,Asia Pacific,Seoul,69,0.00
-58.76.168.123,19879,443,true,HKG,Asia Pacific,Hong Kong,107,0.00
-39.126.160.150,14464,443,true,ICN,Asia Pacific,Seoul,58,0.00
+129.154.198.48,443,443,true,HKG,Asia Pacific,Hong Kong,49,28.93
+3.35.139.150,8443,443,true,HKG,Asia Pacific,Hong Kong,51,24.34
+146.56.162.25,80,80,false,HKG,Asia Pacific,Hong Kong,92,16.46
+52.141.25.42,443,443,true,HKG,Asia Pacific,Hong Kong,80,16.17
+20.249.83.244,8443,443,true,HKG,Asia Pacific,Hong Kong,112,11.14
+58.141.125.141,30059,443,true,ICN,Asia Pacific,Seoul,51,9.58
+58.141.92.80,30064,443,true,ICN,Asia Pacific,Seoul,196,9.41
+49.1.227.184,14002,443,true,ICN,Asia Pacific,Seoul,51,9.19
+27.35.13.136,31703,443,true,ICN,Asia Pacific,Seoul,54,9.15
+58.141.92.80,30055,443,true,ICN,Asia Pacific,Seoul,197,9.10
+58.76.168.123,14045,443,true,ICN,Asia Pacific,Seoul,65,9.10
+49.1.224.137,18889,443,true,ICN,Asia Pacific,Seoul,107,9.09
+49.1.224.137,30055,443,true,ICN,Asia Pacific,Seoul,105,8.91
+49.142.75.128,12122,443,true,ICN,Asia Pacific,Seoul,81,8.37
+49.142.75.128,18367,443,true,ICN,Asia Pacific,Seoul,73,7.91
+49.1.224.137,24726,443,true,ICN,Asia Pacific,Seoul,102,7.35
+182.172.219.82,30002,443,true,ICN,Asia Pacific,Seoul,74,7.11
+101.235.209.154,21747,443,true,ICN,Asia Pacific,Seoul,72,7.02
+58.141.91.212,30054,443,true,ICN,Asia Pacific,Seoul,70,6.57
+49.142.75.128,10194,443,true,ICN,Asia Pacific,Seoul,60,6.34
+101.235.209.154,30060,443,true,ICN,Asia Pacific,Seoul,75,6.09
+146.56.151.2,443,443,true,ICN,Asia Pacific,Seoul,92,5.69
+49.1.224.137,11803,443,true,ICN,Asia Pacific,Seoul,104,5.34
+49.142.75.128,19653,443,true,ICN,Asia Pacific,Seoul,73,4.71
+49.142.75.128,25265,443,true,ICN,Asia Pacific,Seoul,58,4.22
+101.235.197.211,35002,443,true,HKG,Asia Pacific,Hong Kong,113,3.66
+39.126.160.150,38099,443,true,HKG,Asia Pacific,Hong Kong,98,3.59
+49.142.75.128,17082,443,true,ICN,Asia Pacific,Seoul,60,3.53
+49.142.75.128,13215,443,true,ICN,Asia Pacific,Seoul,77,3.46
+39.126.160.150,17030,443,true,HKG,Asia Pacific,Hong Kong,102,3.04
+49.142.75.128,19468,443,true,HKG,Asia Pacific,Hong Kong,95,2.86
+49.142.66.75,10116,443,true,HKG,Asia Pacific,Hong Kong,119,2.76
+39.126.160.150,22597,443,true,HKG,Asia Pacific,Hong Kong,100,2.63
+58.76.168.123,14473,443,true,HKG,Asia Pacific,Hong Kong,102,2.55
+111.118.49.163,38071,443,true,HKG,Asia Pacific,Hong Kong,98,2.52
+101.235.197.211,19818,443,true,HKG,Asia Pacific,Hong Kong,117,2.43
+58.76.168.123,12458,443,true,HKG,Asia Pacific,Hong Kong,103,2.39
+101.235.197.211,28778,443,true,HKG,Asia Pacific,Hong Kong,112,2.18
+101.235.197.211,15855,443,true,HKG,Asia Pacific,Hong Kong,112,2.16
+39.126.158.244,18532,443,true,HKG,Asia Pacific,Hong Kong,138,2.07
+58.76.168.123,33026,443,true,HKG,Asia Pacific,Hong Kong,105,1.96
+45.154.15.101,80,80,false,HKG,Asia Pacific,Hong Kong,56,1.85
+49.142.66.75,18707,443,true,HKG,Asia Pacific,Hong Kong,100,1.83
+59.187.242.236,34933,443,true,ICN,Asia Pacific,Seoul,210,1.45
+45.93.30.45,34237,2096,true,ICN,Asia Pacific,Seoul,57,1.29
+59.187.242.236,15432,443,true,HKG,Asia Pacific,Hong Kong,249,1.13
+13.124.120.105,2087,443,true,HKG,Asia Pacific,Hong Kong,52,1.05
+58.76.168.123,23892,443,true,HKG,Asia Pacific,Hong Kong,104,1.02
+59.187.242.236,14402,443,true,ICN,Asia Pacific,Seoul,239,1.00
+45.93.28.68,34237,2096,true,ICN,Asia Pacific,Seoul,57,0.72
+58.76.168.123,16583,443,true,HKG,Asia Pacific,Hong Kong,94,0.67
+111.118.49.163,12715,443,true,HKG,Asia Pacific,Hong Kong,97,0.65
+59.187.242.236,19948,443,true,ICN,Asia Pacific,Seoul,212,0.50
+58.76.168.123,18020,443,true,HKG,Asia Pacific,Hong Kong,103,0.50
+39.126.160.150,16474,443,true,HKG,Asia Pacific,Hong Kong,100,0.50
+58.76.168.123,30998,443,true,HKG,Asia Pacific,Hong Kong,93,0.44
+101.235.197.211,39577,443,true,HKG,Asia Pacific,Hong Kong,119,0.42
+39.126.44.144,30051,443,true,ICN,Asia Pacific,Seoul,108,0.41
+101.235.209.154,25112,443,true,HKG,Asia Pacific,Hong Kong,108,0.40
+59.187.242.236,10269,443,true,HKG,Asia Pacific,Hong Kong,307,0.40
+1.222.199.179,11265,443,true,ICN,Asia Pacific,Seoul,105,0.39
+58.76.168.123,13819,443,true,HKG,Asia Pacific,Hong Kong,93,0.39
+58.76.168.123,23285,443,true,HKG,Asia Pacific,Hong Kong,109,0.39
+39.126.17.228,30059,443,true,HKG,Asia Pacific,Hong Kong,157,0.39
+49.142.66.75,35573,443,true,ICN,Asia Pacific,Seoul,89,0.37
+59.187.242.236,39728,443,true,ICN,Asia Pacific,Seoul,241,0.36
+1.222.173.33,24488,443,true,ICN,Asia Pacific,Seoul,96,0.36
+58.76.168.123,13012,443,true,HKG,Asia Pacific,Hong Kong,104,0.30
+39.126.44.144,13495,443,true,ICN,Asia Pacific,Seoul,140,0.30
+39.126.15.253,16668,443,true,HKG,Asia Pacific,Hong Kong,142,0.29
+58.141.92.80,23096,443,true,HKG,Asia Pacific,Hong Kong,210,0.28
+39.126.158.244,35034,443,true,HKG,Asia Pacific,Hong Kong,120,0.28
+39.126.105.86,30059,443,true,ICN,Asia Pacific,Seoul,107,0.22
+39.126.44.144,24827,443,true,ICN,Asia Pacific,Seoul,102,0.19
+101.235.209.154,25096,443,true,HKG,Asia Pacific,Hong Kong,111,0.16
+58.76.168.123,25557,443,true,HKG,Asia Pacific,Hong Kong,104,0.14
+39.126.44.39,28916,80,false,HKG,Asia Pacific,Hong Kong,138,0.09
+39.126.44.144,38912,443,true,ICN,Asia Pacific,Seoul,113,0.07
+27.35.13.136,12464,443,true,ICN,Asia Pacific,Seoul,53,0.00
+45.93.30.117,39145,443,true,HKG,Asia Pacific,Hong Kong,52,0.00
+45.93.28.81,17975,443,true,ICN,Asia Pacific,Seoul,51,0.00
