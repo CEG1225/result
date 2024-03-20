@@ -1,10 +1,6 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
-202.86.138.58,50000,443,true,MFM,Asia Pacific,Macau,60,32.92
-182.93.14.10,20520,443,true,MFM,Asia Pacific,Macau,61,28.01
-37.123.196.145,19004,80,false,HKG,Asia Pacific,Hong Kong,52,1.63
-27.109.170.8,39106,443,true,MFM,Asia Pacific,Macau,195,0.48
-27.109.170.8,31229,443,true,MFM,Asia Pacific,Macau,191,0.40
-27.109.170.8,12194,443,true,MFM,Asia Pacific,Macau,218,0.39
-27.109.170.8,28362,443,true,MFM,Asia Pacific,Macau,219,0.39
-27.109.170.8,28184,443,true,MFM,Asia Pacific,Macau,206,0.34
-27.109.170.8,24076,443,true,MFM,Asia Pacific,Macau,204,0.34
+182.93.14.10,20520,443,true,MFM,Asia Pacific,Macau,59,26.47
+202.86.138.58,50000,443,true,MFM,Asia Pacific,Macau,60,25.68
+37.123.196.145,19004,80,false,HKG,Asia Pacific,Hong Kong,54,1.49
+27.109.170.8,39106,443,true,MFM,Asia Pacific,Macau,200,1.30
+27.109.170.8,28184,443,true,MFM,Asia Pacific,Macau,193,1.05
